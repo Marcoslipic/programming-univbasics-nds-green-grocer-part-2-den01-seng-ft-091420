@@ -66,7 +66,6 @@ def checkout(cart, coupons)
 end 
   if total_due > 100 
     total_due *= 0.9
-    total_due.round(2)
   end 
 total_due.round(2)
 total_due
