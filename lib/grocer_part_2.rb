@@ -67,6 +67,5 @@ end
   if total > 100 
     total *= 0.9 
   end 
-end 
 total 
 end
